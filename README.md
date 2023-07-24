@@ -1,1 +1,1 @@
-# Tally-Backend
+# Django-Rest backend template
